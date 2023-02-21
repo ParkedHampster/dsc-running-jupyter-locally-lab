@@ -24,7 +24,7 @@ Remember from the last lesson, you need to:
 
 ## Instructions
 
-Assign the below variable `number` to the number `42` by replacing `None` with `42`.
+Assign the below variable `number` to the number `42` by replacing `None` with `42 `.
 
 
 ```python
